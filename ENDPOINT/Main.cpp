@@ -7,7 +7,7 @@ void Main()
 
 	Texture tei;
 
-	float hitpoint;
+	float hitpoint = 30;
 
 	float demage;
 
